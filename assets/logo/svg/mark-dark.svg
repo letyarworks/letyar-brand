@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" fill="none">
+  <title>Letyar Yun Ridge Mark Dark</title>
+  <desc>Dark-surface version of the Letyar geometric ridge mark.</desc>
+  <path d="M42 190C69 190 72 165 92 150C111 136 126 139 140 119C154 99 163 73 190 64" stroke="#F7FAFC" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M43 190C71 190 82 176 94 160C108 142 121 143 136 126C151 109 161 84 191 65" stroke="#19D3E6" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M43 190H190" stroke="#F7FAFC" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="191" cy="65" r="12" fill="#E0B04B"/>
+  <circle cx="191" cy="65" r="4" fill="#0B1220"/>
+</svg>
