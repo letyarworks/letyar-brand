@@ -2,24 +2,24 @@
 
 > **Every build carries a fingerprint.**
 >
-> **လက်ရာ · Web & Product Engineering · Yangon**
+> **လက်ရာ · Web, Software & Product · Yangon**
 
-**Letyar** (လက်ရာ) is a web and product engineering brand built around workmanship, craftsmanship, and the distinctive fingerprint of the maker.
+**Letyar** (လက်ရာ) is a maker-focused brand built around workmanship, craftsmanship, and the distinctive fingerprint of the maker.
 
 Technology is the material. Design is the structure. Engineering is the craft.
 
 ## Official Brand Hub
 
-This repository is the official source of truth for Letyar's public brand identity, approved messaging, visual assets, and social presence.
+This repository is the canonical source of truth for Letyar's public identity, approved messaging, visual assets, and brand rules.
 
-### Official identity
+### Identity
 
 - **Brand:** Letyar / လက်ရာ
 - **Meaning:** Workmanship, craftsmanship, maker's distinctive touch
 - **Primary tagline:** Every build carries a fingerprint.
-- **Alternative tagline:** Built by hand, shipped on time.
-- **Myanmar tagline:** ကိုယ်ပိုင်လက်ရာနဲ့ တည်ဆောက်ပါတယ်။
-- **Focus:** Web & Product Engineering
+- **Alternative:** Built by hand, shipped on time.
+- **Myanmar:** ကိုယ်ပိုင်လက်ရာနဲ့ တည်ဆောက်ပါတယ်။
+- **Focus:** Web, Software & Product
 - **Base:** Yangon, Myanmar
 
 ## Official Links
@@ -32,7 +32,7 @@ This repository is the official source of truth for Letyar's public brand identi
 | Telegram | https://t.me/letyarworks |
 | LinkedIn | https://www.linkedin.com/in/letyarworks |
 
-## Brand Assets
+## Repository Structure
 
 ```text
 letyar-brand/
@@ -45,46 +45,43 @@ letyar-brand/
 ├── SOCIALS.md
 └── assets/
     ├── logo/
-    │   ├── svg/
-    │   └── png/
+    │   └── svg/
+    │       ├── mark.svg
+    │       └── mark-dark.svg
     ├── favicon/
+    │   └── favicon.svg
     ├── social/
     └── previews/
 ```
 
-The `assets/` directory is reserved for approved, production-ready Letyar assets only.
+The `assets/` directory is reserved for approved production-ready Letyar assets.
 
-### Logo variants
+## Logo
 
-The official logo system is the **Yun Ridge** mark.
+The official logo system is the **Yun Ridge** mark: a minimal ridge / rising-path structure representing craft, progress, and the maker's fingerprint.
 
-- `mark.svg` — light-background mark
-- `mark-dark.svg` — dark-background mark
-- `favicon.svg` — simplified small-size mark
-- PNG exports — 512 / 256 / 64 / 32 px
+- `assets/logo/svg/mark.svg` — primary transparent mark
+- `assets/logo/svg/mark-dark.svg` — dark-surface variant
+- `assets/favicon/favicon.svg` — simplified small-size mark
 
-Logo files are added only from the approved master artwork. Do not recreate, redraw, stretch, rotate, gradient-fill, shadow, or otherwise alter the mark.
+Do not stretch, rotate, redraw, gradient-fill, or add effects to official marks.
 
 ## Brand Colors
 
-| Role | Hex | Usage |
-|---|---|---|
-| Ink | `#16130F` | Text, mark, dark background |
-| Lacquer | `#B23A22` | Accent, links, CTA |
-| Thanaka Gold | `#D9A441` | Graphic highlight only |
-| Cream | `#F5F0E6` | Surface / card |
-| Paper | `#FAF7F0` | Main background |
-| Muted | `#7A736A` | Secondary text |
+| Role | Hex |
+|---|---|
+| Deep Navy | `#0B1220` |
+| Navy | `#101B33` |
+| Electric Cyan | `#19D3E6` |
+| Warm Gold | `#E0B04B` |
+| White | `#F7FAFC` |
+| Mist | `#CBD5E1` |
+| Slate | `#64748B` |
+| Heritage Lacquer | `#B23A22` |
 
-### Dark mode
+Electric Cyan is the primary functional accent. Warm Gold is a graphic highlight and not body text. Lacquer Red is reserved for intentional heritage/cultural contexts.
 
-- Background: `#16130F`
-- Surface: `#1E1A15`
-- Text: `#EFE9DC`
-- Accent: `#E2603F`
-- Muted: `#8C857A`
-
-**Rule:** Lacquer is the primary accent. Gold is a graphic accent and must not be used for body text.
+See `COLORS.md` for usage rules.
 
 ## Typography
 
@@ -97,33 +94,25 @@ Logo files are added only from the approved master artwork. Do not recreate, red
 
 Letyar communicates clearly, directly, and without unnecessary hype.
 
-**Prefer:**
+**Prefer:** clear, useful, crafted, practical, shipped.
 
-- Clear over complicated
-- Useful over decorative
-- Crafted over rushed
-- Practical over theoretical
-- Shipped over unfinished
-
-**Avoid:** generic agency language, buzzwords, exaggerated claims, and unnecessary technical jargon.
+**Avoid:** generic agency language, buzzwords, exaggerated claims, and unnecessary jargon.
 
 ## Sub-brand Architecture
 
-- **Letyar Studio** — client work and engineering services — `letyarlabs.com`
-- **Letyar Labs** — own products and experiments — `letyarlabs.com/labs`
-- **letyar.dev** — portfolio, writing, and open source — separate developer-facing property when registered
+- **Letyar Labs** — own products, software, experiments, and digital products — `letyarlabs.com`
+- **Letyar Studio** — selected engineering / client work
+- **letyar.dev** — developer portfolio, writing, and open source when registered
 
 Products may stand independently as **“Product — by Letyar Labs.”**
 
 ## Repository Rules
 
-This repository is the canonical public brand reference.
-
 1. Use the approved Letyar name and tagline.
 2. Use official logo files only.
 3. Follow the approved color and typography system.
 4. Do not publish experimental logo variants as official assets.
-5. Update the brand source of truth before introducing a new official direction.
+5. Update the source of truth before introducing a new official direction.
 
 ## License & Trademark
 
