@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <title>Letyar Favicon</title>
+  <path d="M11 48C19 48 22 42 27 36C32 30 37 29 41 23C45 17 48 12 54 10" stroke="#19D3E6" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M11 48H53" stroke="#F7FAFC" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="54" cy="10" r="5" fill="#E0B04B"/>
+</svg>
