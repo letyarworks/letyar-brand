@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" fill="none">
+  <rect width="1200" height="630" fill="#0B1220"/>
+  <path d="M92 500C210 500 224 430 304 372C380 316 440 328 496 248C556 162 592 96 716 70" stroke="#19D3E6" stroke-width="28" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M94 500H716" stroke="#F7FAFC" stroke-width="16" stroke-linecap="round"/>
+  <circle cx="718" cy="70" r="24" fill="#E0B04B"/>
+  <circle cx="718" cy="70" r="8" fill="#0B1220"/>
+  <text x="90" y="150" fill="#F7FAFC" font-family="Arial, sans-serif" font-size="72" font-weight="700">Letyar</text>
+  <text x="90" y="215" fill="#CBD5E1" font-family="Arial, sans-serif" font-size="30">Web, Software &amp; Product</text>
+  <text x="90" y="575" fill="#19D3E6" font-family="Arial, sans-serif" font-size="25">Every build carries a fingerprint.</text>
+</svg>
