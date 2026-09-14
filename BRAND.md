@@ -15,7 +15,7 @@ The central idea is:
 
 ## Positioning
 
-Letyar is a maker-focused web and product engineering brand. It builds practical digital products, websites, interfaces, systems, and tools with attention to the details that make the work recognisably its own.
+Letyar is a maker-focused web, software, and product engineering brand. It builds practical digital products, websites, interfaces, systems, and tools with attention to the details that make the work recognisably its own.
 
 Letyar is **not positioned as a generic agency**.
 
@@ -44,20 +44,29 @@ Letyar is **not positioned as a generic agency**.
 
 ## Visual direction
 
-The **Yun Ridge** mark references Myanmar lacquerware carving lines while forming an L-like fingerprint structure. The central red point acts as the maker's signature.
+The **Yun Ridge** mark references Myanmar craftsmanship and carving lines while forming an L-like fingerprint / rising path structure. The warm-gold point acts as the maker's signature.
 
-## Primary palette
+## Primary digital palette
 
 | Role | Hex |
 |---|---|
-| Ink | `#16130F` |
-| Lacquer | `#B23A22` |
-| Thanaka Gold | `#D9A441` |
-| Cream | `#F5F0E6` |
-| Paper | `#FAF7F0` |
-| Muted | `#7A736A` |
+| Deep Navy | `#0B1220` |
+| Navy | `#101B33` |
+| Electric Cyan | `#19D3E6` |
+| Warm Gold | `#E0B04B` |
+| White | `#F7FAFC` |
+| Mist | `#CBD5E1` |
+| Slate | `#64748B` |
 
-Gold is for graphic highlights only, not body text.
+## Heritage accent
+
+| Role | Hex |
+|---|---|
+| Lacquer Red | `#B23A22` |
+
+Lacquer Red is an optional heritage accent and does not replace the primary digital palette.
+
+Warm Gold is for graphic highlights, not body text.
 
 ## Typography
 
